@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</br>
+ 
+ 
 ##### 👨‍💻  Software Engineering Student at 1337/42_Network
 ##### 🤖  I Make Softwares That Help Human Beings in their Daily Life
 ##### 🦾  Currently Interested in Competitive Programming & Solving Problems That Challenge Your Mind
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 ##### 💻  I'm Currently Working on some Web Apps Following Both Architectures RESTful API's and GraphQl
 ##### 😄  Cool Fact: If You want to make me happy bought me a ticket to watch Arsenal at Emirates Stadium, (You can call me Mr.Big Fan of Arsenal😄)
 ##### 👉  Interested in Coorperating Together? Email me at <i>elmefeddelhicham@gmail.com</i>
-
-</br>
-</br>
+ 
+ 
+ 
 ### Thank you for checking out my github profile!
