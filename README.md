@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://badge42.vercel.app/api/v2/cl2mijeuk000609l9mjany0lo/stats?cursusId=21&coalitionId=80
 <!--
 **hel-mefe/hel-mefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +19,11 @@ Here are some ideas to get you started:
  
 ##### 👨‍💻  Software Engineering Student at 1337/42_Network
 ##### 🤖  I Make Softwares That Help Human Beings in their Daily Life
-##### 🦾  Currently Interested in Competitive Programming & Solving Problems That Challenge Your Mind
-##### ↗️  I'm Learning Golang at The Moment in addition to Flask and Django 
-##### 💻  I'm Currently Working on some Web Apps Following Both Architectures RESTful API's and GraphQl
-##### 😄  Cool Fact: If You want to make me happy bought me a ticket to watch Arsenal at Emirates Stadium, (You can call me Mr.Big Fan of Arsenal😄)
-##### 👉  Interested in Coorperating Together? Email me at <i>elmefeddelhicham@gmail.com</i>
+##### 🦾  Currently interested in Competitive Programming & Solving Problems that challenge every software engineers mind
+##### ↗️  I'm Currently Learning Golang in addition to Flask and Django 
+##### 💻  I'm Currently working on some Web Apps following both architectures REST and GraphQl
+##### 😄  Fun fact: If You want to make me happy bought me a ticket to watch Arsenal at Emirates Stadium
+##### 👉  Interested in cooperating together? Email me at <i>elmefeddelhicham@gmail.com</i>
  
  
  
