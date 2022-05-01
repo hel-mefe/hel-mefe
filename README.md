@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👉  Interested in cooperating together? Email me at <i>elmefeddelhicham@gmail.com</i>
  
  [![LeetCode user hel-mefe](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhel-mefe&logo=leetcode&logoColor=yellow)](https://leetcode.com/hel-mefe/) 
-### My Favourite Programming Languages
+### My top 5 coding languages I love
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <!--
  ## Technologies I Work With
