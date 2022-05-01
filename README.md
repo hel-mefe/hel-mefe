@@ -18,13 +18,13 @@ Here are some ideas to get you started:
  
  
 ##### 👨‍💻  Software Engineering Student at 1337/42_Network
-##### 🤖  I Make Softwares That Help Human Beings in their Daily Life
+##### 🤖  I make softwares that help human beings in their daily life
 ##### 🦾  Currently interested in Competitive Programming & Solving Problems that challenge every software engineers mind
-##### ↗️  I'm Currently Learning Golang in addition to Flask and Django 
-##### 💻  I'm Currently working on some Web Apps following both architectures REST and GraphQl
-##### 😄  Fun fact: If You want to make me happy bought me a ticket to watch Arsenal at Emirates Stadium
+##### ↗️  I'm currently learning Golang in addition to Flask and Django 
+##### 💻  I'm currently working on some web apps following both architectures REST and GraphQl
+##### 😄  Fun fact: if You want to make me happy bought me a ticket to watch Arsenal at Emirates Stadium
 ##### 👉  Interested in cooperating together? Email me at <i>elmefeddelhicham@gmail.com</i>
  
  
  
-### Thank you for checking out my github profile!
+### Thank you for checking out my github profile🙏!
