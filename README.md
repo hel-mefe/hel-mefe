@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ##### 💻  I'm currently working on some web apps following both architectures REST and GraphQl
 ##### 😄  Fun fact: if You want to make me happy bought me a ticket to watch Arsenal at Emirates Stadium
 ##### 👉  Interested in cooperating together? Email me at <i>elmefeddelhicham@gmail.com</i>
- 
+ [![LeetCode user hel-mefe](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhel-mefe&logo=leetcode&logoColor=yellow)](https://leetcode.com/hel-mefe/)
  
  
 ### Thank you for checking out my github profile🙏!
