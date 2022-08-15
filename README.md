@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mijeuk000609l9mjany0lo/stats?cursusId=21&coalitionId=80" alt="hel-mefe's 42 stats" /></a>
-![hel-mefe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hel-mefe&show_icons=true&theme=radical)
 <!--
 **hel-mefe/hel-mefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,7 +40,12 @@ Here are some ideas to get you started:
     me.introduce()
     me.say_thanks()
  
- 
+<div style="float:left">
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mijeuk000609l9mjany0lo/stats?cursusId=21&coalitionId=80" alt="hel-mefe's 42 stats" /></a>
+</div>
+<div style="float:right">
+![hel-mefe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hel-mefe&show_icons=true&theme=radical)
+</div>
 <!-- - 👨‍💻  I'm a Software Engineering student at 1337/42_Network
 - 🤖  I make softwares that help human beings in their daily life
 - 🦾  Currently interested in Competitive Programming
