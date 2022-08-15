@@ -26,21 +26,28 @@ Here are some ideas to get you started:
             self.last_name = "Elmefeddel"
             self.nickname = "Hel-mefe"
             self.role = "Software Developer"
+           
+        def introduce(self):
+            print('Hi, I\'m Hicham Elmefeddel, I'm a self-taught software developer who writes code in C/C++, Python, Javascript and Golang. 
+            I have no tech stack I always work with, I always believe that the main work of a Software Developer is to solve problems regardless
+            of the tech stack, I can adapt with any tech stack in short amount of time as I can solve problems as long as I'm practicing data structures
+            and algorithms problems everyday :)'
 
         def say_hi(self):
             print("Thank you for taking a look at my github account, you are the best :)")
 
     me = SoftwareDeveloper()
+    me.introduce()
     me.say_hi()
  
  
-- 👨‍💻  I'm a Software Engineering student at 1337/42_Network
+<!-- - 👨‍💻  I'm a Software Engineering student at 1337/42_Network
 - 🤖  I make softwares that help human beings in their daily life
 - 🦾  Currently interested in Competitive Programming
 - ↗️  I'm currently learning Golang in addition to Flask and Django 
 - 💻  I'm currently working on some web apps following both architectures REST and GraphQl
 - 😄  Fun fact: if You want to make me happy bought me a ticket to watch Arsenal at Emirates Stadium
-- 👉  Interested in cooperating together? Email me at <i>elmefeddelhicham@gmail.com</i>
+- 👉  Interested in cooperating together? Email me at <i>elmefeddelhicham@gmail.com</i> -->
   
  <!--[![LeetCode user hel-mefe](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhel-mefe&logo=leetcode&logoColor=yellow)](https://leetcode.com/hel-mefe/) -->
 ### My Top 5 Coding Languages I Love Working With
