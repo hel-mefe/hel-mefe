@@ -17,6 +17,7 @@ Here are some ideas to get you started:
     #!/usr/bin/python
     # -*- coding: utf-8 -*-
 
+```python
     class SoftwareDeveloper:
 
         def __init__(self):
@@ -39,8 +40,8 @@ Here are some ideas to get you started:
     me = SoftwareDeveloper()
     me.introduce()
     me.say_thanks()
- 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mijeuk000609l9mjany0lo/stats?cursusId=21&coalitionId=80" alt="hel-mefe's 42 stats" width="46%" style="float:left;"/></a>
+ ```
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mijeuk000609l9mjany0lo/stats?cursusId=21&coalitionId=80" alt="hel-mefe's 42 stats"/></a>
 ![hel-mefe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hel-mefe&show_icons=true&theme=tokyonight)
 <!-- - 👨‍💻  I'm a Software Engineering student at 1337/42_Network
 - 🤖  I make softwares that help human beings in their daily life
