@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mijeuk000609l9mjany0lo/stats?cursusId=21&coalitionId=80" alt="hel-mefe's 42 stats" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **hel-mefe/hel-mefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
