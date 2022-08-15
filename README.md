@@ -15,6 +15,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareDeveloper:
+
+    def __init__(self):
+        self.first_name = "Hicham"
+        self.last_name = "Elmefeddel"
+        self.nickname = "Hel-mefe"
+        self.role = "Software Developer"
+
+    def say_hi(self):
+        print("Thank you for taking a look at my github account, you are the best :)")
+
+
+me = SoftwareDeveloper()
+me.say_hi()
  
  
 - 👨‍💻  I'm a Software Engineering student at 1337/42_Network
