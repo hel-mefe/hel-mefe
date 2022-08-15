@@ -28,14 +28,13 @@ Here are some ideas to get you started:
             self.role = "Software Developer"
             self.programmingLanguages = ['C', 'C++', 'Python', 'Javascript', 'Go']
             self.codeStyle = 'camelStyle'
+            self.philosophy = 'Optimally Solving Problems And Adapting Quickly to Any TechStack Above All' 
+            self.powers = ['Algorithms', 'Data Structures', 'Software Architecture', 'Learning Everyday']
            
         def introduce(self):
             print("Hi, I'm Hicham Elmefeddel, I'm a self-taught Software Developer who writes code in C/C++, 
-            Python, Javascript and Golang. 
-            I believe that the main work of a every software developer is to optimally solve problems regardless of 
-            the tech stack, therefore I have no preferable tech stack, I focus more on -> (Algorithms/DataStructures,
-            Software Architecture And Clean Code)!"
-
+            Python, Javascript and Golang.")
+ 
         def say_thanks(self):
             print("Thank you for checking out my github profile, you are the best :)")
 
