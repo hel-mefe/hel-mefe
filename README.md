@@ -26,21 +26,22 @@ Here are some ideas to get you started:
             self.last_name = "Elmefeddel"
             self.nickname = "Hel-mefe"
             self.role = "Software Developer"
+            self.programmingLanguages = ['C', 'C++', 'Python', 'Javascript', 'Go']
+            self.codeStyle = 'camelStyle'
            
         def introduce(self):
-            print('Hi, I\'m Hicham Elmefeddel, I'm a self-taught software developer who writes code in C/C++, 
+            print("Hi, I'm Hicham Elmefeddel, I'm a self-taught Software Developer who writes code in C/C++, 
             Python, Javascript and Golang. 
-            I have no tech stack I always work with, I always believe that the main work of a Software Developer
-            is to solve problems regardless of the tech stack, I can adapt with any tech stack in short amount of time
-            as I can solve problems as long as I'm practicing data structures
-            and algorithm problems everyday :)'
+            I believe that the main work of a every software developer is to optimally solve problems regardless of 
+            the tech stack, therefore I have no preferable tech stack, I focus more on -> (Algorithms/DataStructures,
+            Software Architecture And Clean Code)!"
 
-        def say_hi(self):
-            print("Thank you for taking a look at my github account, you are the best :)")
+        def say_thanks(self):
+            print("Thank you for checking out my github profile, you are the best :)")
 
     me = SoftwareDeveloper()
     me.introduce()
-    me.say_hi()
+    me.say_thanks()
  
  
 <!-- - 👨‍💻  I'm a Software Engineering student at 1337/42_Network
