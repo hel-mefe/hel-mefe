@@ -31,7 +31,7 @@ Here are some ideas to get you started:
             self.powers = ['Algorithms', 'Data Structures', 'Software Architecture', 'Learning Everyday']
            
         def introduce(self):
-            print("Hi, I'm Hicham Elmefeddel, I'm a self-taught Software Developer who writes code in C/C++, 
+            print("Hi, I'm Hicham Elmefeddel, I'm a Self-taught Software Developer who writes code in C/C++, 
             Python, Javascript and Golang.")
  
         def say_thanks(self):
