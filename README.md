@@ -28,10 +28,12 @@ Here are some ideas to get you started:
             self.role = "Software Developer"
            
         def introduce(self):
-            print('Hi, I\'m Hicham Elmefeddel, I'm a self-taught software developer who writes code in C/C++, Python, Javascript and Golang. 
-            I have no tech stack I always work with, I always believe that the main work of a Software Developer is to solve problems regardless
-            of the tech stack, I can adapt with any tech stack in short amount of time as I can solve problems as long as I'm practicing data structures
-            and algorithms problems everyday :)'
+            print('Hi, I\'m Hicham Elmefeddel, I'm a self-taught software developer who writes code in C/C++, 
+            Python, Javascript and Golang. 
+            I have no tech stack I always work with, I always believe that the main work of a Software Developer
+            is to solve problems regardless of the tech stack, I can adapt with any tech stack in short amount of time
+            as I can solve problems as long as I'm practicing data structures
+            and algorithm problems everyday :)'
 
         def say_hi(self):
             print("Thank you for taking a look at my github account, you are the best :)")
