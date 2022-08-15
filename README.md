@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 class SoftwareDeveloper:
     def __init__(self):
         self.first_name = "Hicham"
@@ -27,6 +28,7 @@ class SoftwareDeveloper:
 
     def say_hi(self):
         print("Thank you for taking a look at my github account, you are the best :)")
+
 me = SoftwareDeveloper()
 me.say_hi()
  
