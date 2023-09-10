@@ -23,22 +23,23 @@ Here are some ideas to get you started:
         def __init__(self):
             self.first_name = "Hicham"
             self.last_name = "Elmefeddel"
-            self.nickname = "Hel-mefe"
+            self.nickname = "hel-mefe"
             self.role = "Software Developer"
-            self.programmingLanguages = ['C', 'C++', 'Python', 'Javascript', 'Go']
-            self.codeStyle = 'camelStyle'
-            self.philosophy = 'Optimally Solving Problems And Adapting Quickly to Any TechStack Above All' 
-            self.powers = ['Algorithms', 'Data Structures', 'Software Architecture', 'Learning Everyday']
+            self.languages = ['C', 'C++', 'Python', 'Javascript', 'Golang']
+            self.philosophy = 'Prioritizing fast-adaptation to any tech stack over sticking to one tech stack'
            
         def introduce(self):
-            print("Hi, I'm Hicham Elmefeddel, I'm a Self-taught Software Developer who writes code in C/C++, 
-            Python, Javascript and Golang.")
- 
+            print("Hi, I'm Hicham Elmefeddel, I'm a self-taughts software developer that I adopt many tech stacks to get the work done as properly as possible.")
+
+        def currently(self):
+            print("Currently I'm learning all about React.js, Next.js, GraphQL and RestfulAPIS ")
+
         def say_thanks(self):
             print("Thank you for checking out my github profile, you are the best :)")
 
     me = SoftwareDeveloper()
     me.introduce()
+    me.currently()
     me.say_thanks()
  ```
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mijeuk000609l9mjany0lo/stats?cursusId=21&coalitionId=80" alt="hel-mefe's 42 stats"/></a>
