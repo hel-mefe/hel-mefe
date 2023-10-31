@@ -18,24 +18,23 @@ Here are some ideas to get you started:
     # -*- coding: utf-8 -*-
 
 ```python
-    class SoftwareDeveloper:
+    class SoftwareEngineer:
 
         def __init__(self):
             self.first_name = "Hicham"
             self.last_name = "Elmefeddel"
-            self.nickname = "hel-mefe"
-            self.role = "Software Developer"
-            self.languages = ['C', 'C++', 'Python', 'Javascript', 'Golang']
-            self.philosophy = 'Prioritizing fast-adaptation to any tech stack over sticking to one tech stack'
+            self.role = "SoftwareEngineer"
+            self.technologies = [C/C++, Python, Javascript/Typescript, Golang]
+            self.philosophy = 'Nailing the work as properly as possible with the appropriate tech stack to get the work done!'
            
         def introduce(self):
-            print("Hi, I'm Hicham Elmefeddel, I'm a self-taughts software developer that I adopt many tech stacks to get the work done as properly as possible.")
+            print("Hi, I'm Hicham Elmefeddel, a 21yo software engineer")
 
         def currently(self):
-            print("Currently I'm learning all about React.js, Next.js, GraphQL and RestfulAPIS ")
+            print("Currently I'm learning all about gRPC and microservices ")
 
         def say_thanks(self):
-            print("Thank you for checking out my github profile, you are the best :)")
+            print("Thank you for checking out my github profile")
 
     me = SoftwareDeveloper()
     me.introduce()
