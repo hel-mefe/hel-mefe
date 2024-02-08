@@ -24,14 +24,14 @@ Here are some ideas to get you started:
             self.first_name = "Hicham"
             self.last_name = "Elmefeddel"
             self.role = "SoftwareEngineer"
-            self.technologies = [C/C++, Python, Javascript/Typescript, Golang]
-            self.philosophy = 'Nailing the work as properly as possible with the appropriate tech stack to get the work done!'
+            self.languages = [C/C++, Python, Javascript/Typescript, Golang]
+            self.philosophy = 'Focus on concepts and patterns rather than technologies themselves!'
            
         def introduce(self):
-            print("Hi, I'm Hicham Elmefeddel, a 21yo software engineer")
+            print("Hi, I'm Hicham Elmefeddel, a 21yo software engineer, I love working with Go but I have no issue coding in any other language")
 
         def currently(self):
-            print("Currently I'm learning all about gRPC and microservices ")
+            print("Learning all about distributed systems and system design concepts ")
 
         def say_thanks(self):
             print("Thank you for checking out my github profile")
