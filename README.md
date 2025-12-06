@@ -28,7 +28,7 @@ Here are some ideas to get you started:
             self.philosophy = 'Focus on concepts and patterns rather than technologies themselves!'
            
         def introduce(self):
-            print("Hi, I'm Hicham Elmefeddel, a 22yo software engineer, I love working with Go but I have no issue coding in any other language")
+            print("Hi, I'm Hicham Elmefeddel, a software engineer, I love working with Go but I have no issue coding in any other language")
 
         def currently(self):
             print("Learning all about distributed systems and system design concepts ")
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
         def say_thanks(self):
             print("Thank you for checking out my github profile")
 
-    me = SoftwareDeveloper()
+    me = SoftwareEngineer()
     me.introduce()
     me.currently()
     me.say_thanks()
